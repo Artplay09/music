@@ -1,0 +1,23 @@
+.search{
+    height: 100px;
+    width: 300px;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    font-size: 15px;
+    background-color: lavender;
+}
+.box{
+    margin: auto;
+    padding: 20px;
+}
+button, input{
+    font-size: inherit;
+}
+
+
